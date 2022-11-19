@@ -1,2 +1,2 @@
-# Airbnb-Bookings-Analysis
+# Airbnb-Bookings-Analysis-EDA
 Airbnb Bookings Analysis 
